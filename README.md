@@ -1,5 +1,7 @@
 # Hi, I'm Xiaoran 👋
 
+**English** · [中文](./README.zh-CN.md)
+
 > **Product thinker · AI builder · Applied Statistics**
 
 I build AI products at the intersection of **product, data, and agents**.
